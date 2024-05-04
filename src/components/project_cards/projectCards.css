@@ -1,0 +1,12 @@
+.hoverText {
+    display: none;
+}
+
+.cardAction:hover .hoverText {
+    display: block;
+
+}
+
+.MuiCardActionArea-root:hover {
+    opacity: 0.7;
+}
