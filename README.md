@@ -72,5 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Git Scan
 development
-project-description: This is my portfolio! \end\
-tags: ReactJS, CSS \end\
+project-description: This is my portfolio!
+tags: ReactJS, CSS
